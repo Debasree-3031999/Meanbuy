@@ -14,11 +14,12 @@
   <li>Product Page</li>
   <li>Checkout Page</li>
   <hr><br>
- <img src="" alt="Meanbuy ScreenShot currently unavailable, working on it"/>
+ <img src="https://github.com/Debasree-3031999/Meanbuy/blob/main/Screenshot%20(114).png" alt="Meanbuy ScreenShot currently unavailable, working on it"/>
 <h2>Team Members :</h2>
   <li><a href="https://github.com/Debasree-3031999">Debasree Ghosh</a></li>
-  <li><a href="">N2</a></li>
-  <li><a href="">N3</a></li>
-  <li><a href="">N4</a></li>
+  <li><a href="">Vaishnavi Bajaj</a></li>
+  <li><a href="">Soumitra Uppadhay</a></li>
+  <li><a href="">Rohit Chouray</a></li>
+  <li><a href="">Krishan Prajapati</a></li>
  <hr><hr>
 
